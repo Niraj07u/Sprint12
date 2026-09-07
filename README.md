@@ -278,7 +278,3 @@ npm run test:server
 4. In `client/src/hooks/useSocket.js`, update `SOCKET_SERVER_URL` or configure an environment variable (`import.meta.env.VITE_SERVER_URL`) pointing to your deployed backend URL.
 
 ---
-
-## 📜 License
-
-MIT License — free for educational and production use.
