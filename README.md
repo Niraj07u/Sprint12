@@ -7,9 +7,7 @@
 
 ## 🌐 Live Deployment
 
-- **Live Application URL**: [Insert Live Deployment URL Here]
-- **Backend API & Health Telemetry**: `[Insert Backend URL Here]/health`
-
+- **Live Application URL**: https://sprint12-two.vercel.app/
 ---
 
 ## 📸 Key Features
